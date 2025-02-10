@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\DockerExamples.XConnect.config" />
+    <Content Include="App_Config\Include\DockerExamples.JssAppConfiguration.config" />
+    <Content Include="DockerExamples.Website.module.json" />
     <None Include="Properties\PublishProfiles\DockerDeploy.pubxml" />
     <None Include="Web.config.xdt" />
   </ItemGroup>

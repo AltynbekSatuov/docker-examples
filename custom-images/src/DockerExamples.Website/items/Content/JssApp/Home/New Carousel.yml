@@ -1,0 +1,66 @@
+﻿---
+ID: "83ad9eb5-3b55-4256-9a1d-8ff93f148f89"
+Parent: "b8ed0efe-8778-4bdd-ba09-8d40475d17bc"
+Template: "4098033b-c79d-414f-a4b5-63c483d7df9e"
+Path: /sitecore/content/JssApp/Home/New Carousel
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250205T125815Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e588a6d6-c368-4ad7-bf6d-0bcdabb004f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T065559Z
+    - ID: "dd9eada9-11d5-4749-9381-e016cb094f86"
+      Hint: Carousel Slides
+      Value: |
+        {D431B857-0D9A-4D66-9223-246AEB754693}
+        {951D6B84-0EEA-4436-8F06-B543EBDF0EFC}
+- Language: "kk-KZ"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T065616Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "325c103b-3ca9-41ae-8642-50d8f3db57ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T065629Z
+    - ID: "dd9eada9-11d5-4749-9381-e016cb094f86"
+      Hint: Carousel Slides
+      Value: |
+        {D431B857-0D9A-4D66-9223-246AEB754693}
+        {951D6B84-0EEA-4436-8F06-B543EBDF0EFC}

@@ -1,0 +1,71 @@
+﻿---
+ID: "b8ed0efe-8778-4bdd-ba09-8d40475d17bc"
+Parent: "1d100477-2bc8-4884-9bf0-65c464b397e2"
+Template: "b36ba9fd-0dc0-49c8-bea2-e55d70e6af28"
+Path: /sitecore/content/JssApp/Home
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|default\Anonymous|pd|+item:read|pe|+item:read|
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{AAEE0674-08F8-471A-A3CE-5D36CF9453E3}">
+        <p
+          uid="{F5594090-58BE-45D4-A4AB-68771EE3D940}"
+          key="headless-main"
+          md="{D45E45D2-8612-413D-9295-75B6A7932588}" />
+        <r
+          ds="{83AD9EB5-3B55-4256-9A1D-8FF93F148F89}"
+          id="{6F076893-D1CD-43DD-8793-7A70489FCCF5}"
+          par=""
+          ph="headless-main"
+          uid="{9939C769-1C46-48CE-919D-BCF089B20AE5}"
+          ccb="Clear on publish" />
+      </d>
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        l="{AAEE0674-08F8-471A-A3CE-5D36CF9453E3}">
+        <p
+          uid="{525317EE-8A4C-4416-9522-7B84AFD3EDD4}"
+          key="headless-main"
+          md="{D45E45D2-8612-413D-9295-75B6A7932588}" />
+        <r
+          id="{6F076893-D1CD-43DD-8793-7A70489FCCF5}"
+          ph="headless-main"
+          uid="{C7768E14-43C6-47AA-A9FA-60AA3E4478E2}" />
+      </d>
+    </r>
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250204T094547Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59c43d3a-7c92-4ce5-b7f2-4aa44c535463"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T070006Z

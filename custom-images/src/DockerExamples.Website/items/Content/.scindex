@@ -1,0 +1,37 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Sitecore Headless\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp.yml
+ID: "1d100477-2bc8-4884-9bf0-65c464b397e2"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "061cba15-5474-4b91-8a06-17903b102b82"
+Path: /sitecore/content/JssApp
+Signature: 1bkwrUjI90DJANq+AHNh93mC3uLpYvFoNRrefhVk/Zo=
+Modified: 638747649345962143
+---
+File: |
+  C:\Sitecore Headless\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp\Home.yml
+ID: "b8ed0efe-8778-4bdd-ba09-8d40475d17bc"
+Parent: "1d100477-2bc8-4884-9bf0-65c464b397e2"
+Template: "b36ba9fd-0dc0-49c8-bea2-e55d70e6af28"
+Path: /sitecore/content/JssApp/Home
+Signature: lJvlvJ9to5iNyqVR1+OrhkcrpvuHT/kxQWOkTGsd/dU=
+Modified: 638747649345987388
+---
+File: |
+  C:\Sitecore Headless\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp\Home\New Carousel\New Carousel Slide 1.yml
+ID: "d431b857-0d9a-4d66-9223-246aeb754693"
+Parent: "83ad9eb5-3b55-4256-9a1d-8ff93f148f89"
+Template: "b7ff2a9b-9430-4b4a-829f-23c5477da8c2"
+Path: /sitecore/content/JssApp/Home/New Carousel/New Carousel Slide 1
+Signature: FzFZScjHw9TrqmkkNiIuh4oYJOjd6td/0Ugam0Vcwyw=
+Modified: 638747649346017346
+---
+File: |
+  C:\Sitecore Headless\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp\Home\New Carousel.yml
+ID: "83ad9eb5-3b55-4256-9a1d-8ff93f148f89"
+Parent: "b8ed0efe-8778-4bdd-ba09-8d40475d17bc"
+Template: "4098033b-c79d-414f-a4b5-63c483d7df9e"
+Path: /sitecore/content/JssApp/Home/New Carousel
+Signature: 3hR5YCLDhGIWhpYSwtVWk2/q7R3zEnD5jnsnWMWOWNY=
+Modified: 638747649345997355

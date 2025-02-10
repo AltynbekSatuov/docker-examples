@@ -1,0 +1,103 @@
+﻿---
+ID: "d431b857-0d9a-4d66-9223-246aeb754693"
+Parent: "83ad9eb5-3b55-4256-9a1d-8ff93f148f89"
+Template: "b7ff2a9b-9430-4b4a-829f-23c5477da8c2"
+Path: /sitecore/content/JssApp/Home/New Carousel/New Carousel Slide 1
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        l="{AAEE0674-08F8-471A-A3CE-5D36CF9453E3}">
+        <r
+          id="{A7061EC6-44BC-4E07-8308-5DCA55826587}"
+          ph=""
+          uid="{4492371C-3B6A-4E41-904E-1FB4BBFC86BA}" />
+      </d>
+    </r>
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "10158235-e9c6-46a2-ba2b-a2d223769a71"
+      Hint: Slide Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{B8ED0EFE-8778-4BDD-BA09-8D40475D17BC}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T051533Z
+    - ID: "39f99e10-b489-4722-834d-1931812d0721"
+      Hint: Description
+      Value: Test Slide 1 Description text
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee944289-e8e4-4d64-b07c-378cabda28a2"
+    - ID: "9ad88753-b8d9-4c1a-b40b-07c6a2060f5c"
+      Hint: Slide Image
+      Value: |
+        <image mediaid="{7AEC8BE5-8B69-45C4-ABC6-98C694B5E792}" />
+    - ID: "a8cdb633-b748-4cbd-9c90-9f2cc7461a99"
+      Hint: FallbackEnabledText
+      Value: English text
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T065458Z
+    - ID: "e6839b69-c4e8-4211-a77a-10444a42bfab"
+      Hint: Title
+      Value: Test Slide 1 Edited 2
+- Language: "kk-KZ"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T063737Z
+    - ID: "39f99e10-b489-4722-834d-1931812d0721"
+      Hint: Description
+      Value: 1 слайн анықтамасы
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eeec331d-8231-4699-a1ee-7dc19f6df1b3"
+    - ID: "9ad88753-b8d9-4c1a-b40b-07c6a2060f5c"
+      Hint: Slide Image
+      Value: |
+        <image mediaid="{E158D17E-AEA2-4355-AA7D-BCF0489BACB6}" alt="Ақ машина" height="250" width="200" hspace="" vspace="" />
+    - ID: "a8cdb633-b748-4cbd-9c90-9f2cc7461a99"
+      Hint: FallbackEnabledText
+      Value: қазақша мәтін
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T065424Z
+    - ID: "e6839b69-c4e8-4211-a77a-10444a42bfab"
+      Hint: Title
+      Value: "1-Слайд"
