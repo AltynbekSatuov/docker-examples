@@ -52,6 +52,11 @@
     <Content Include="App_Config\Include\DockerExamples.XConnect.config" />
     <Content Include="App_Config\Include\DockerExamples.JssAppConfiguration.config" />
     <Content Include="DockerExamples.Website.module.json" />
+    <Content Include="App_Config\Include\Sitecore.Sites.config" />
+    <Content Include="App_Config\Include\Sitecore.Services.GraphQL.Content.Master.config" />
+    <Content Include="App_Config\Include\Sitecore.Services.GraphQL.Content.Web.config" />
+    <Content Include="App_Config\Include\DockerExamples.GraphQL.config" />
+    <Content Include="DockerExamples.Website.wpp.targets" />
     <None Include="Properties\PublishProfiles\DockerDeploy.pubxml" />
     <None Include="Web.config.xdt" />
   </ItemGroup>
@@ -73,6 +78,10 @@
     <PackageReference Include="Sitecore.Assemblies.XConnect.Web">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Sitecore.LayoutService" VersionOverride="10.1.0">
+    </PackageReference>
+    <PackageReference Include="Sitecore.Assemblies.SitecoreHeadlessServicesServer" VersionOverride="22.0.11">
     </PackageReference>
   </ItemGroup>
   <PropertyGroup>

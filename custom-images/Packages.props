@@ -9,5 +9,8 @@
     <PackageReference Update="Sitecore.XConnect.Collection.Model" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.Assemblies.Platform" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.Assemblies.XConnect.Web" Version="$(PlatformVersion)" />
+	<PackageReference Update="Sitecore.Assemblies.SitecoreHeadlessServicesServer" Version="22.0.11" />
+	<PackageReference Update="Sitecore.LayoutService" Version="10.1.0" />
+
   </ItemGroup>
 </Project>
